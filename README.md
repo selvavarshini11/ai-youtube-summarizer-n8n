@@ -44,16 +44,11 @@ An AI-powered YouTube video summarizer built using workflow automation and Large
 
 ---
 
-## 🔐 Security Note
 
-⚠️ Do NOT upload real API keys to GitHub.  
-Always use placeholders inside public repositories.
 
 ---
 
-## 📷 Workflow Preview
 
-(Add your workflow screenshot here)
 
 ---
 
